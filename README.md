@@ -1,4 +1,4 @@
-[README_maxsharpe.md](https://github.com/user-attachments/files/27756809/README_maxsharpe.md)
+
 # Kernel-IQ Maximum-Sharpe Portfolio Experiment
 
 This repository contains a reproducible empirical study of Kernel-IQ covariance estimation in a long-only maximum-Sharpe portfolio setting. The workflow tunes Kernel-IQ parameters in sample, applies the fitted estimator to monthly out-of-sample portfolio backtests, compares it with benchmark covariance estimators, and summarizes performance, ranking, Sharpe-ratio, and concentration diagnostics across optimizer seeds.
